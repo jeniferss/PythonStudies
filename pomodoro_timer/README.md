@@ -18,7 +18,7 @@ git clone https://github.com/jeniferss/python.git
 cd pomodoro_timer
 
 # Run
-python racing_game.py
+python main.py
 ```
 
 
